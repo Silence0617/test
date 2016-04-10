@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://source.kroffer.com/ipa/CodrimWebPage.ipa</string>
+                   <string>http://source.kroffer.com/ipa/CodrimWebPage_test.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,20 +19,21 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://im5.tongbu.com/kkzs/installTool76.png</string>
+                   <string>https://boxpro.cn/boxpro/publishdownload/V1KS8-e_g?fileName=icon.png</string>
                </dict>
-           </array><key>metadata</key>
+           </array>
+           <key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
                <string>net.codrim.webpage</string>
                <key>bundle-version</key>
-               <string>1.0.0</string>
+               <string>1.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
                <string>Codrim</string>
                <key>title</key>
-               <string>CodrimWebPage</string>
+               <string>盈+钥匙</string>
            </dict>
        </dict>
    </array>
